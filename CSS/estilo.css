@@ -1,0 +1,79 @@
+body{
+  background-color: rgb(188, 35, 236);
+  font-family: Georgia, "Times new Roman " Times, serif ;
+}
+h1{
+  font-size: 3rem;
+  text-align: center;
+  text-decoloration: underline;
+  text-transform: uppercase;
+    background-color:rgb(54, 21, 230);
+}
+
+h2{
+  background-color:rgb(249, 249, 249);
+  text-decoration: underline;
+  font-size: 2rem;
+
+}
+h3{
+  background-color: hsla(210, 89%, 46%, 0.72);
+  color: white;
+  font-size: 1.5rem;
+}
+R{
+  text-align: justify;
+
+}
+h4{
+  background-color:#ffffff;
+  color: black;
+  font-size: 1rem;
+  text-align: right;
+}
+
+
+p{
+  text-align:center;
+
+}
+
+strong{
+
+  color:hsla(199, 95%, 52%, 0.81);
+}
+
+blockquote{
+  font-style: oblique;
+
+}
+
+#uno{
+  background-color:hsl(39,83%,46%);
+  color:black;
+  font-family: Georgia,´Times New Roman´,Times,serif;
+}
+
+pre{
+  background-color:white;
+  font-size: 1rem;
+  font-weight:bold;
+}
+div{
+
+}
+address{
+
+  font-family: serif;
+  font-style: normal;
+  text-align: right;
+}
+#pie{
+  background-color: rgb(154, 159, 250);
+  position: absolute;
+  display: inline-block;
+  align-items:center;
+  width: 100%;
+  heihgt: 30px;
+  color: black;
+}
